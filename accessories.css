@@ -1,0 +1,37 @@
+.assessory_pic {
+	margin: 25px 0px 25px 0px;
+	width:190px;
+	height:240px;
+	border: 1px dashed #ccc;
+	float:left;
+	clear:both;
+	text-align: center;
+}
+
+.assessory_pic img{	
+	padding-left:25px;
+}
+
+.assessory_description {
+	margin: 25px 0px 25px 0px;
+	width:450px;
+	height:240px;
+	border: 1px solid #ccc;
+	float:right;
+}
+
+.assessory_description h4 {
+	padding:10px;
+	color:black;
+}
+
+.assessory_description p {
+	padding:10px;
+	font-size:15px;
+}
+
+.assessory_header {
+	margin-top: 25px;
+	font-size:30px;
+
+}
